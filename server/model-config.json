@@ -40,5 +40,17 @@
   "article": {
     "dataSource": "mongodb",
     "public": true
+  },
+  "userIdentity": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "userCredential": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "accessToken": {
+    "dataSource": "mongodb",
+    "public": false
   }
 }
