@@ -6,7 +6,7 @@
   "mongodb": {
     "host": "127.0.0.1",
     "port": 27017,
-    "database": "bookmark",
+    "database": "myBlog",
     "name": "mongodb",
     "connector": "mongodb"
   }
